@@ -1,0 +1,7 @@
+C:\Mphasis\Practise Project\Practise Project-3\ConAppPracticeProject3\ConAppPracticeProject3\bin\Debug\ConAppPracticeProject3.exe.config
+C:\Mphasis\Practise Project\Practise Project-3\ConAppPracticeProject3\ConAppPracticeProject3\bin\Debug\ConAppPracticeProject3.exe
+C:\Mphasis\Practise Project\Practise Project-3\ConAppPracticeProject3\ConAppPracticeProject3\bin\Debug\ConAppPracticeProject3.pdb
+C:\Mphasis\Practise Project\Practise Project-3\ConAppPracticeProject3\ConAppPracticeProject3\obj\Debug\ConAppPracticeProject3.csproj.AssemblyReference.cache
+C:\Mphasis\Practise Project\Practise Project-3\ConAppPracticeProject3\ConAppPracticeProject3\obj\Debug\ConAppPracticeProject3.csproj.CoreCompileInputs.cache
+C:\Mphasis\Practise Project\Practise Project-3\ConAppPracticeProject3\ConAppPracticeProject3\obj\Debug\ConAppPracticeProject3.exe
+C:\Mphasis\Practise Project\Practise Project-3\ConAppPracticeProject3\ConAppPracticeProject3\obj\Debug\ConAppPracticeProject3.pdb
